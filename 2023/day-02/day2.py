@@ -4,7 +4,6 @@ Date: 03/12/2023
 '''
 
 import logging
-import re
 
 ############
 # PART ONE #
